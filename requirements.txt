@@ -4,3 +4,4 @@ pylibdmtx
 pyzxing
 cryptography
 opencv-python
+pyzbar
